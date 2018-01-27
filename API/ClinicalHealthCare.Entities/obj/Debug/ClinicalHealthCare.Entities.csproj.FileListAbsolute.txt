@@ -1,0 +1,10 @@
+F:\Neeraj\GIT\TestProject\TestProject\API\ClinicalHealthCare.Entities\bin\Debug\ClinicalHealthCare.Entities.dll
+F:\Neeraj\GIT\TestProject\TestProject\API\ClinicalHealthCare.Entities\bin\Debug\ClinicalHealthCare.Entities.pdb
+F:\Neeraj\GIT\TestProject\TestProject\API\ClinicalHealthCare.Entities\obj\Debug\ClinicalHealthCare.Entities.csprojResolveAssemblyReference.cache
+F:\Neeraj\GIT\TestProject\TestProject\API\ClinicalHealthCare.Entities\obj\Debug\ClinicalHealthCare.Entities.dll
+F:\Neeraj\GIT\TestProject\TestProject\API\ClinicalHealthCare.Entities\obj\Debug\ClinicalHealthCare.Entities.pdb
+F:\GIT\Saddam\TestProject\API\ClinicalHealthCare.Entities\bin\Debug\ClinicalHealthCare.Entities.dll
+F:\GIT\Saddam\TestProject\API\ClinicalHealthCare.Entities\bin\Debug\ClinicalHealthCare.Entities.pdb
+F:\GIT\Saddam\TestProject\API\ClinicalHealthCare.Entities\obj\Debug\ClinicalHealthCare.Entities.csprojResolveAssemblyReference.cache
+F:\GIT\Saddam\TestProject\API\ClinicalHealthCare.Entities\obj\Debug\ClinicalHealthCare.Entities.dll
+F:\GIT\Saddam\TestProject\API\ClinicalHealthCare.Entities\obj\Debug\ClinicalHealthCare.Entities.pdb
